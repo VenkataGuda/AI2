@@ -1,0 +1,40 @@
+Skill set:
+	 Abinitio,
+	 Apache Spark,
+	 Hive,
+	 Pig,
+	 Python,
+	 Scala,
+	 Unix/Linux,
+	 Oracle,
+	 Autosys,
+	 Core Java,
+	 Big data Hadoop Administration concepts,
+	 Business Objects(as part of SPIDER application)
+Applications:
+		SPIDER
+		LOPR
+		Web GCR
+
+		*CTO Global GPA Big Data Support ,*CTO GLOBAL GPA Big Data Support-External 
+
+
+"1.https://www.safaribooksonline.com/library/view/introduction-to-apache/9781771374804/
+2.https://www.safaribooksonline.com/library/view/apache-hive-essentials/9781783558575/
+3.https://www.safaribooksonline.com/library/view/instant-apache-hive/9781782169475/
+4.https://www.safaribooksonline.com/library/view/programming-hive/9781449326944/"
+
+
+ACTION TAKEN TO RESOLVE THE PROBLEM : Requested query data has been provided ..
+Root Cause :L3 team requested query data for analysis.
+Problem Analysis/Statement : Requested query data has been provided
+Impact : No impact 
+Country or Business : NAM 
+Customer (Number of customers) : 1 
+Financial (Amount) : N/A 
+Multiple Applications (Impact on other application) : N/A 
+Global (Is the fix required for other countries, region or all) : Global 
+Temp Fix : NA 
+Perm Fix : NA
+Preventive Actions : This is one time data request for analysis.
+§	L3 / App / BA Requests	~	Data Requests

@@ -1,0 +1,30 @@
+Admin
+EME
+COMP
+Functions
+Plan
+ACE
+----
+Core Java
+.Net
+Python
+JavaScript
+XML
+HTML
+CSS
+-----------
+Spark
+Hive
+Pig
+Hbase
+Impala
+Casandra
+MangoDB
+Kafka
+Flume
+Datameer
+Plotfora
+Oozie
+Zookeeper
+Cloud Computing
+
